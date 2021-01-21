@@ -1,0 +1,35 @@
+
+body {
+  height: 3000px;
+  background:white;
+
+}
+
+div.hot{
+color:crimson;
+text-align:center;
+font-weight:bold;
+font-family: 'Bigshot One', cursive;
+font-size:3vw;
+
+}
+
+p.deals4u{
+color:indigo;
+font-size:2.5vw;
+text-align:center;
+font-family: 'Bigshot One', cursive;
+padding-bottom:2%;
+}
+
+div.lefnav{
+width:80px;
+align:left;
+height:auto;
+}
+
+div.rightnav{
+width:80px;
+align:right;
+height:auto;
+}
