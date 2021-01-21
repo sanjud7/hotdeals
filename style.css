@@ -24,12 +24,12 @@ padding-bottom:2%;
 
 div.lefnav{
 width:80px;
-align:left;
+float:left;
 height:auto;
 }
 
 div.rightnav{
 width:80px;
-align:right;
+float:right;
 height:auto;
 }
